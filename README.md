@@ -87,7 +87,7 @@ This repository is a curated collection of resources for aspiring professionals 
 - [GenAI Foundation](https://www.youtube.com/watch?v=mEsleV16qdo)
 - [LLM and GenAI in Cybersecurity](https://start.me/p/9oJvxx/applying-llms-genai-to-cyber-security)
 
-## 🛠️ Recommended Tools
+## 🛠️ Recommended Tools for Red-teaming
 1. [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/index.html)
 
 ## 🤝 Contributing
