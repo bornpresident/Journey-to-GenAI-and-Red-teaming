@@ -26,10 +26,11 @@ This repository is a curated collection of resources for aspiring professionals 
 - [Python NumPy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 - [NumPy vs Pandas Comparison](https://www.youtube.com/watch?v=KHoEbRH46Zk)
 
-#### Machine Learning Frameworks
+#### Machine Learning
 - [PyTorch Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA)
 - [TensorFlow Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=2712s)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/linear-regression)
+- [Machine Learning Specialization recommended by IIT Bombay's PhD scholar](https://www.coursera.org/specializations/machine-learning-introduction?#courses)
 - [Machine Learning with Python and Scikit-Learn](https://www.youtube.com/watch?v=hDKCxebp88A)
 
 ### 🤖 Deep Learning and Advanced Topics
