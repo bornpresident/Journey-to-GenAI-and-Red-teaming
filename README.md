@@ -56,6 +56,7 @@ This repository is a curated collection of resources for aspiring professionals 
 - [Web LLM Attacks: Port Swigger](https://portswigger.net/web-security)
 - [0din AI Red Teaming](https://0din.ai/about)
 - [AI Supply Chain Security Insights](https://protectai.com/insights)
+- [LLM Hackthon Enviroment](https://github.com/ouspg/LLM-Hackathon?tab=readme-ov-file)
 
 ### 📖 Research and Learning Resources
 - [Excellent Research Paper Stack for LLM Red-Teaming](https://dreadnode.notion.site/2582fe5306274c60b85a5e37cf99da7e?v=74ab79ed1452441dab8a1fa02099fedb)
@@ -87,7 +88,7 @@ This repository is a curated collection of resources for aspiring professionals 
 - [LLM and GenAI in Cybersecurity](https://start.me/p/9oJvxx/applying-llms-genai-to-cyber-security)
 
 ## 🛠️ Recommended Tools
-*(Tools section to be expanded)*
+1. [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/index.html)
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
