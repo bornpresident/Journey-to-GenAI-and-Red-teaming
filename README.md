@@ -90,7 +90,8 @@ This repository is a curated collection of resources for aspiring professionals 
 
 ## 🛠️ Recommended Tools for Red-teaming
 1. [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/index.html) [Video](https://www.youtube.com/watch?v=jq9DcEL3cHE)
-2. 
+2. [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+3. [Foolbox](https://github.com/bethgelab/foolbox) ;A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX 
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
