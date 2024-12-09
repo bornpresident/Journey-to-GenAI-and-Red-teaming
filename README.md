@@ -88,7 +88,8 @@ This repository is a curated collection of resources for aspiring professionals 
 - [LLM and GenAI in Cybersecurity](https://start.me/p/9oJvxx/applying-llms-genai-to-cyber-security)
 
 ## 🛠️ Recommended Tools for Red-teaming
-1. [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/index.html)
+1. [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/index.html) [Video](https://www.youtube.com/watch?v=jq9DcEL3cHE)
+2. 
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
