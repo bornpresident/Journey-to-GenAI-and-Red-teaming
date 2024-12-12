@@ -58,6 +58,9 @@ This repository is a curated collection of resources for aspiring professionals 
 - [0din AI Red Teaming](https://0din.ai/about)
 - [AI Supply Chain Security Insights](https://protectai.com/insights)
 - [LLM Hackthon Enviroment](https://github.com/ouspg/LLM-Hackathon?tab=readme-ov-file)
+- [Invariant Labs](https://invariantlabs.ai/about)
+- [RedTeam Arena](https://redarena.ai/)
+- 
 
 ### 📖 Research and Learning Resources
 - [Excellent Research Paper Stack for LLM Red-Teaming](https://dreadnode.notion.site/2582fe5306274c60b85a5e37cf99da7e?v=74ab79ed1452441dab8a1fa02099fedb)
@@ -100,7 +103,8 @@ This repository is a curated collection of resources for aspiring professionals 
 4. [Lasso Security](https://www.lasso.security/)
 5. [Mindgard](https://sandbox.mindgard.ai/overview)
 6. [Robust Intelligence](https://www.robustintelligence.com/platform/ai-firewall-guardrails) ; Protects AI application with AI Firewall
-7. [Oligo](https://www.oligo.security/resources/blog?category=All) ; Reserach Blog 
+7. [Oligo](https://www.oligo.security/resources/blog?category=All) ; Reserach Blog
+8. [LAKERA](https://www.lakera.ai/)
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
