@@ -100,6 +100,7 @@ This repository is a curated collection of resources for aspiring professionals 
 4. [Lasso Security](https://www.lasso.security/)
 5. [Mindgard](https://sandbox.mindgard.ai/overview)
 6. [Robust Intelligence](https://www.robustintelligence.com/platform/ai-firewall-guardrails) ; Protects AI application with AI Firewall
+7. [Oligo](https://www.oligo.security/resources/blog?category=All) ; Reserach Blog 
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
