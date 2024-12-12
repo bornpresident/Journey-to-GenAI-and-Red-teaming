@@ -60,8 +60,7 @@ This repository is a curated collection of resources for aspiring professionals 
 - [LLM Hackthon Enviroment](https://github.com/ouspg/LLM-Hackathon?tab=readme-ov-file)
 - [Invariant Labs](https://invariantlabs.ai/about)
 - [RedTeam Arena](https://redarena.ai/)
-- 
-
+  
 ### 📖 Research and Learning Resources
 - [Excellent Research Paper Stack for LLM Red-Teaming](https://dreadnode.notion.site/2582fe5306274c60b85a5e37cf99da7e?v=74ab79ed1452441dab8a1fa02099fedb)
 - [OWASP Top 10 for Large Language Models](https://genai.owasp.org/llm-top-10-2023-24/)
@@ -105,6 +104,7 @@ This repository is a curated collection of resources for aspiring professionals 
 6. [Robust Intelligence](https://www.robustintelligence.com/platform/ai-firewall-guardrails) ; Protects AI application with AI Firewall
 7. [Oligo](https://www.oligo.security/resources/blog?category=All) ; Reserach Blog
 8. [LAKERA](https://www.lakera.ai/)
+9. [Mithril Security](https://www.mithrilsecurity.io/)
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
