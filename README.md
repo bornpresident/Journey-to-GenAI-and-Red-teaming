@@ -105,6 +105,7 @@ This repository is a curated collection of resources for aspiring professionals 
 7. [Oligo](https://www.oligo.security/resources/blog?category=All) ; Reserach Blog
 8. [LAKERA](https://www.lakera.ai/)
 9. [Mithril Security](https://www.mithrilsecurity.io/)
+10. [Mend](https://www.mend.io/)
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
