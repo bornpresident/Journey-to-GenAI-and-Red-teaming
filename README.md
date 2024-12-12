@@ -91,7 +91,15 @@ This repository is a curated collection of resources for aspiring professionals 
 ## 🛠️ Recommended Tools for Red-teaming
 1. [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/index.html) [Video](https://www.youtube.com/watch?v=jq9DcEL3cHE)
 2. [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
-3. [Foolbox](https://github.com/bethgelab/foolbox) ;A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX 
+3. [Foolbox](https://github.com/bethgelab/foolbox) ;A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX
+
+## Startups dealing with AI security
+1. [Pangea](https://pangea.cloud/)
+2. [Promptarmor](https://promptarmor.com/)
+3. [Securiti](https://securiti.ai/)
+4. [Lasso Security](https://www.lasso.security/)
+5. [Mindgard](https://sandbox.mindgard.ai/overview)
+6. [Robust Intelligence](https://www.robustintelligence.com/platform/ai-firewall-guardrails) ; Protects AI application with AI Firewall
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
