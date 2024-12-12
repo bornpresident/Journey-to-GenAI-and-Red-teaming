@@ -113,6 +113,3 @@ This repository is a curated collection of resources for aspiring professionals 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
 
-## 📝 Disclaimer
-This is a community-driven resource. Always verify the credibility and current relevance of any learning material or tool.
-
