@@ -64,7 +64,7 @@ This repository is a curated collection of resources for aspiring professionals 
 ### 📖 Research and Learning Resources
 - [Excellent Research Paper Stack for LLM Red-Teaming](https://dreadnode.notion.site/2582fe5306274c60b85a5e37cf99da7e?v=74ab79ed1452441dab8a1fa02099fedb)
 - [OWASP Top 10 for Large Language Models](https://genai.owasp.org/llm-top-10-2023-24/)
-- [MITRE Framework for LLM](https://atlas.mitre.org/)
+- [MITRE ATLAS COVERAGE FOR LLM](https://atlas.mitre.org/)
 
 ### 📺 YouTube Channels and Videos
 - [MLSec YouTube Channel](https://www.youtube.com/@MLSec/videos)
@@ -92,8 +92,11 @@ This repository is a curated collection of resources for aspiring professionals 
 
 ## 🛠️ Recommended Tools for Red-teaming
 1. [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/index.html) [Video](https://www.youtube.com/watch?v=jq9DcEL3cHE)
-2. [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+2. [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ; Something like Metasploit.Github repostiory tell you step by step how to test.
 3. [Foolbox](https://github.com/bethgelab/foolbox) ;A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX
+4. [NVIDIA'S GARK](https://github.com/NVIDIA/garak)
+5. [LLM Fuzzer](https://github.com/mnns/LLMFuzzer)
+
 
 ## Startups dealing with AI security
 1. [Pangea](https://pangea.cloud/)
