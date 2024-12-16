@@ -73,12 +73,15 @@ This repository is a curated collection of resources for aspiring professionals 
 - [Marta Janus and Eoin Wickens - Sleeping with one AI open](https://www.youtube.com/watch?v=u2TqNL0cI5o)
 - [AI Vulnerability Insights](https://www.youtube.com/watch?v=e3ybnXjtpIc)
 - [AI Security Overview](https://www.youtube.com/watch?v=IFRX6rUDXyY)
+- [Scaling Runtime Application Security](https://www.youtube.com/watch?v=nRV0ulYMsxU&list=PLq9wT6ZZJ_TkKYS5aa2u19xgBsDbVMul-&index=6)
+- [Shadow Vulnerabilities in AI/ML Data Stacks](https://www.youtube.com/watch?v=MxbWDj0qap8&t=968s)
 
 ### 📰 Articles and Insights
 - [Hidden Layer Security](https://hiddenlayer.com/)
 - [Weaponizing ML Models with Ransomware](https://hiddenlayer.com/innovation-hub/weaponizing-machine-learning-models-with-ransomware/#Introduction)
 - [Shadow Logic](https://hiddenlayer.com/innovation-hub/shadowlogic/)
 - [Embraced Threaded Blog](https://embracethered.com/blog/)
+- [Oligo Blof](https://www.oligo.security/resources/blog?category=All)
 
 ## 🎓 Additional Learning Resources
 - [Kaggle](https://www.kaggle.com/)
@@ -90,12 +93,13 @@ This repository is a curated collection of resources for aspiring professionals 
 - [GenAI Foundation](https://www.youtube.com/watch?v=mEsleV16qdo)
 - [LLM and GenAI in Cybersecurity](https://start.me/p/9oJvxx/applying-llms-genai-to-cyber-security)
 
-## 🛠️ Recommended Tools for Red-teaming
+## 🛠️Tools 
 1. [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/index.html) [Video](https://www.youtube.com/watch?v=jq9DcEL3cHE)
 2. [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ; Something like Metasploit.Github repostiory tell you step by step how to test.
 3. [Foolbox](https://github.com/bethgelab/foolbox) ;A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX
 4. [NVIDIA'S GARK](https://github.com/NVIDIA/garak)
 5. [LLM Fuzzer](https://github.com/mnns/LLMFuzzer)
+6. [Secimport: Tailor-Made eBPF Sandbox for Python Applications](https://www.youtube.com/watch?v=6DJNQtBJvLA) 
 
 
 ## Startups dealing with AI security
