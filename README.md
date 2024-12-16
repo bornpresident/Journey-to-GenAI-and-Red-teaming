@@ -82,7 +82,7 @@ This repository is a curated collection of resources for aspiring professionals 
 - [Shadow Logic](https://hiddenlayer.com/innovation-hub/shadowlogic/)
 - [Embraced Threaded Blog](https://embracethered.com/blog/)
 - [Oligo Blof](https://www.oligo.security/resources/blog?category=All)
-
+- [Mindguard Academy](https://sandbox.mindgard.ai/mindgard-academy?attack=crescendo)
 ## 🎓 Additional Learning Resources
 - [Kaggle](https://www.kaggle.com/)
 - [Let's Build GPT: From Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
