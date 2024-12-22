@@ -99,7 +99,8 @@ This repository is a curated collection of resources for aspiring professionals 
 3. [Foolbox](https://github.com/bethgelab/foolbox) ;A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX
 4. [NVIDIA'S GARK](https://github.com/NVIDIA/garak)
 5. [LLM Fuzzer](https://github.com/mnns/LLMFuzzer)
-6. [Secimport: Tailor-Made eBPF Sandbox for Python Applications](https://www.youtube.com/watch?v=6DJNQtBJvLA) 
+6. [Secimport: Tailor-Made eBPF Sandbox for Python Applications](https://www.youtube.com/watch?v=6DJNQtBJvLA)
+7. [Hugging Face Security Documentation](https://huggingface.co/docs/hub/security) 
 
 
 ## Startups dealing with AI security
