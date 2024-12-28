@@ -53,7 +53,7 @@ This repository is a curated collection of resources for aspiring professionals 
 ### 🐛 Bug Bounty and Practical Platforms
 - [Huntr](https://huntr.com/)
 - [OWASP Top 10 for LLM with Hands-on Practice](https://application.security/free/llm)
-- [AI Hacking Playground](https://crucible.dreadnode.io/) / [Adversarial ML Article](https://boschko.ca/adversarial-ml/)
+- [AI Hacking Playground/Crucible platform](https://crucible.dreadnode.io/) / [Adversarial ML Article](https://boschko.ca/adversarial-ml/)
 - [Web LLM Attacks: Port Swigger](https://portswigger.net/web-security)
 - [0din AI Red Teaming](https://0din.ai/about)
 - [AI Supply Chain Security Insights](https://protectai.com/insights)
@@ -65,6 +65,7 @@ This repository is a curated collection of resources for aspiring professionals 
 - [Excellent Research Paper Stack for LLM Red-Teaming](https://dreadnode.notion.site/2582fe5306274c60b85a5e37cf99da7e?v=74ab79ed1452441dab8a1fa02099fedb)
 - [OWASP Top 10 for Large Language Models](https://genai.owasp.org/llm-top-10-2023-24/)
 - [MITRE ATLAS COVERAGE FOR LLM](https://atlas.mitre.org/)
+- [Dreadnode Reserach](https://www.dreadnode.io/research)
 
 ### 📺 YouTube Channels and Videos
 - [MLSec YouTube Channel](https://www.youtube.com/@MLSec/videos)
