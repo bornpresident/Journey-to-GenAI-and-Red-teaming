@@ -101,7 +101,8 @@ This repository is a curated collection of resources for aspiring professionals 
 4. [NVIDIA'S GARK](https://github.com/NVIDIA/garak)
 5. [LLM Fuzzer](https://github.com/mnns/LLMFuzzer)
 6. [Secimport: Tailor-Made eBPF Sandbox for Python Applications](https://www.youtube.com/watch?v=6DJNQtBJvLA)
-7. [Hugging Face Security Documentation](https://huggingface.co/docs/hub/security) 
+7. [Hugging Face Security Documentation](https://huggingface.co/docs/hub/security)
+8. [Protect AI](https://github.com/protectai)
 
 
 ## Startups dealing with AI security
