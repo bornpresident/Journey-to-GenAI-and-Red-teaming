@@ -48,8 +48,6 @@ This repository is a curated collection of resources for aspiring professionals 
 1. [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-01+V1)
 2. [Exploring Adversarial Machine Learning](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-DS-03+V1)
 
-## 🕵️ Red-Teaming and Security Platforms
-
 ### 🐛 Bug Bounty and Practical Platforms
 - [Huntr](https://huntr.com/)
 - [OWASP Top 10 for LLM with Hands-on Practice](https://application.security/free/llm)
@@ -84,6 +82,7 @@ This repository is a curated collection of resources for aspiring professionals 
 - [Embraced Threaded Blog](https://embracethered.com/blog/)
 - [Oligo Blof](https://www.oligo.security/resources/blog?category=All)
 - [Mindguard Academy](https://sandbox.mindgard.ai/mindgard-academy?attack=crescendo)
+- [Wonderful articles about LLM security](https://llmsecurity.net/) **
 ## 🎓 Additional Learning Resources
 - [Kaggle](https://www.kaggle.com/)
 - [Let's Build GPT: From Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
