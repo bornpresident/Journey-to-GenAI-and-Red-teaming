@@ -58,6 +58,7 @@ This repository is a curated collection of resources for aspiring professionals 
 - [LLM Hackthon Enviroment](https://github.com/ouspg/LLM-Hackathon?tab=readme-ov-file)
 - [Invariant Labs](https://invariantlabs.ai/about)
 - [RedTeam Arena](https://redarena.ai/)
+- [GenAI Dcotor](https://myllmdoc.com/) 
   
 ### 📖 Research and Learning Resources
 - [Excellent Research Paper Stack for LLM Red-Teaming](https://dreadnode.notion.site/2582fe5306274c60b85a5e37cf99da7e?v=74ab79ed1452441dab8a1fa02099fedb)
@@ -83,6 +84,10 @@ This repository is a curated collection of resources for aspiring professionals 
 - [Oligo Blof](https://www.oligo.security/resources/blog?category=All)
 - [Mindguard Academy](https://sandbox.mindgard.ai/mindgard-academy?attack=crescendo)
 - [Wonderful articles about LLM security](https://llmsecurity.net/) **
+- [Withsecure Reserach](https://labs.withsecure.com)
+- [LLM Chronicles](https://llm-chronicles.com/)
+- [With secure consulting](https://consulting.withsecure.com/articles/generative-ai-security-findings-from-our-research/) 
+
 ## 🎓 Additional Learning Resources
 - [Kaggle](https://www.kaggle.com/)
 - [Let's Build GPT: From Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
@@ -115,6 +120,11 @@ This repository is a curated collection of resources for aspiring professionals 
 8. [LAKERA](https://www.lakera.ai/)
 9. [Mithril Security](https://www.mithrilsecurity.io/)
 10. [Mend](https://www.mend.io/)
+
+## Twitter
+1. [With consulting](https://x.com/withconsulting)
+2. [Fazl](https://x.com/FazlBarez)
+3. [LLM Security](https://x.com/llm_sec) 
 
 ## 🤝 Contributing
 Contributions are welcome! If you have additional resources, tools, or insights, please submit a pull request or open an issue.
